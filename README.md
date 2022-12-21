@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohiru_kamau" target="blank"><img src="https://img.shields.io/twitter/follow/mohiru_kamau?logo=twitter&style=for-the-badge" alt="mohiru_kamau" /></a> </p>
 
-- 🌱 I’m currently learning ** Tableau, Power BI**
+- 🌱 I’m currently learning **Tableau, Power BI**
 
 - 💬 Ask me about **python,Seaborn**
 
