@@ -1,4 +1,4 @@
-[![MasterHead](https://bangladeshcenterofexcellence.org/wp-content/uploads/2020/03/0aa27065-advanced-analytics.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Mohiru</h1>
 <h3 align="center">A Data Scientist from Kenya</h3>
