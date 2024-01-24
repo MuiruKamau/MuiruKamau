@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benson Kamau</h1>
 <h3 align="center">A passionate Machine learning / AI Engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muirukamau&label=Profile%20views&color=0e75b6&style=flat" alt="muirukamau" /> </p>
 
 - 🌱 I’m currently learning **Microsoft Azure, Machine Learning and Generative AI**
 
