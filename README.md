@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Benson Kamau</h1>
-<h3 align="center">A passionate Machine learning/ Ai Developer from Kenya</h3>
+<h3 align="center">A passionate Machine learning / Ai Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muirukamau&label=Profile%20views&color=0e75b6&style=flat" alt="muirukamau" /> </p>
 
@@ -9,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **LLM's Project**
 
-- 💬 Ask me about **Machine Learning,Python and Ai**
+- 💬 Ask me about **Machine Learning, Python and Ai**
 
 - 📫 How to reach me **muirubk@outlook.com**
 
