@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kamau </h1>
-<h3 align="center">A Data Scientist from Kenya</h3>
+<h3 align="center">A Data Scientist | Machine Learning Engineer | AI Engineer from Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c39f38eb33655b9e8af074a1d4b5c3fe16166089&rid=giphy.gif&ct=g">
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohiru_kamau" target="blank"><img src="https://img.shields.io/twitter/follow/mohiru_kamau?logo=twitter&style=for-the-badge" alt="mohiru_kamau" /></a> </p>
 
-- 🌱 I’m currently learning **Tableau, Power BI**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python,Seaborn**
+- 💬 Ask me about **Python, Machine Learning, Artficial Intelligence, Generative AI**
 
-- 📫 How to reach me **muirubensonkamau@gmail.com**
+- 📫 How to reach me **muirubk@outlook.com**
 
 - ⚡ Fun fact **Wanted to pursue Political Science,Graduated with Actuarial Science but pursuing a career in Data Science.I think I'm engaged to Science.**
 
