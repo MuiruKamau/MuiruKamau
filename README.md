@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Mohiru</h1>
+<h1 align="center">Hi 👋, I'm Kamau </h1>
 <h3 align="center">A Data Scientist from Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611c39f38eb33655b9e8af074a1d4b5c3fe16166089&rid=giphy.gif&ct=g">
