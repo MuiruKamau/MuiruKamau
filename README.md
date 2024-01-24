@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muirukamau&label=Profile%20views&color=0e75b6&style=flat" alt="muirukamau" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohiru_kamau" target="blank"><img src="https://img.shields.io/twitter/follow/mohiru_kamau?logo=twitter&style=for-the-badge" alt="mohiru_kamau" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/benson-muiru-2022/" target="blank"><img src="https://img.shields.io/twitter/follow/mohiru_kamau?logo=twitter&style=for-the-badge" alt="mohiru_kamau" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
