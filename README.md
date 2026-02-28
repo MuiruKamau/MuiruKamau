@@ -10,23 +10,18 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class BenKamau {
+- 🙋‍♂️ **Name:** Ben Kamau
+- 💼 **Role:** Software Engineer
+- 📍 **Location:** Nairobi, Kenya 🇰🇪
+- 📞 **Brand:** Better Call Ben
 
-    String name        = "Ben Kamau";
-    String role        = "Software Engineer";
-    String location    = "Nairobi, Kenya 🇰🇪";
-    String brand       = "Better Call Ben 📞";
+- 🔧 **Backend:** Java · Spring Boot · Microservices · REST APIs
+- 🎨 **Frontend:** React · JavaScript · HTML/CSS
+- 🗄️ **Databases:** MySQL · PostgreSQL
+- 🐳 **DevOps:** Docker · Git · Linux
+- 💳 **Domains:** Fintech · Payment Integration · Enterprise Systems
 
-    String[] backend   = {"Java", "Spring Boot", "Microservices", "REST APIs"};
-    String[] frontend  = {"React", "JavaScript", "HTML/CSS"};
-    String[] databases = {"MySQL", "PostgreSQL"};
-    String[] devops    = {"Docker", "Git", "Linux"};
-    String[] domains   = {"Fintech", "Payment Integration", "Enterprise Systems"};
-
-    String motto = "Got a Vision? I'll Engineer the Reality.";
-}
-```
+> *"Got a Vision? I'll Engineer the Reality."* ⚡
 
 ---
 
