@@ -63,14 +63,15 @@ public class BenKamau {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuiruKamau&show_icons=true&theme=radical&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1a1a2e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuiruKamau&layout=compact&theme=radical&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a2e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuiruKamau&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1a1a2e" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuiruKamau&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a2e" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuiruKamau&theme=radical&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=1a1a2e)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MuiruKamau&theme=tokyonight&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=1a1a2e"/>
 
 </div>
 
